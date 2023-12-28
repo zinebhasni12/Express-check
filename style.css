@@ -1,0 +1,34 @@
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display:flow-root;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration:double;
+    color: wheat;
+}
+
+.content {
+    padding: 20px;
+}
+
+   
